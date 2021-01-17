@@ -1,4 +1,4 @@
-# Pandas_tutorial
+Credit: Guilherme Samora
 
 # Pandas Exercises
 
